@@ -14,3 +14,99 @@ All told, Markdown is a great way to write for the web using plain text.
 
 
 SOURCE : https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html
+
+
+---
+Formatting
+---
+**THIS IS A BOLD TEXT **
+
+__ANOTHER BOLD TEXT__
+
+_THIS IS AN ITALIC TEXT_
+
+*ANOTHER ITALIC TEXT*
+
+~~Strike Through (tilde)~~
+
+---
+Headers
+---
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+
+---
+Inserting Images
+---
+
+[//]: # (Insterting images)
+
+![](https://th.bing.com/th/id/OIP.dKWhuwGC4nnXHWjv1TU4VgHaNK?pid=ImgDet&rs=1)
+
+---
+Markdown Comments
+---
+
+[]: # (This is a markdown comment)
+
+
+[]: # "And this is a markdown comment"
+
+
+
+[]: # 'Also this is a markdown comment'
+
+
+[//]: # (Yet another markdown comment)
+
+
+
+[comment]: # (Still another markdown comment)
+
+---
+Ordered List
+---
+
+Ordered List Markdown
+
+
+1. This is list item 1
+2. This is list item 2
+3. This is list item 3
+5. This is supposed to be list item 5 but it is actually list item 4 because of the order-list rules.
+
+*Item 1
+*Item 2
+*Item 3
+
+-Item 4
+-Item 5
+
+-[X] We have completed this task
+-[ ] This task isn't completed yet
+
+---
+Table in Markdown
+---
+
+| Table MyTable | This is an example column | Another example column |
+| --------------- | ---------------- | --------------- |
+| Coconut | Melon | Apple |
+| Linus | Windows | Apple |
+| 0$ | 100$ | 1000$|
+
+---
+Table In Markdown Aligned
+---
+
+| Table MyTable | This is an example column | Another example column |
+| --------------- | :----------------: | ---------------: | [comment]: # (Notice the : it is for aligning the table better)
+| Coconut | Melon | Apple |
+| Linus | Windows | Apple |
+| 0$ | 100$ | 1000$|
