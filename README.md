@@ -110,3 +110,14 @@ Table In Markdown Aligned
 | Coconut | Melon | Apple |
 | Linus | Windows | Apple |
 | 0$ | 100$ | 1000$|
+
+
+---
+Markdown Cool Github Features
+---
+
+This is a better `.Formatting`
+
+```
+this is a markdown box
+```
