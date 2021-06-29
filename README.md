@@ -143,3 +143,13 @@ Icons In Markdown
 Websites
 ---
 [this is the description of the url](https://github.com/AlexandrosPanag/Markdown_Projects)
+
+
+---
+Bullets Alternative
+---
+* Item 1
+* Item 2
+* Item 3
+  * Nested Item 1
+  * Nested Item 2
