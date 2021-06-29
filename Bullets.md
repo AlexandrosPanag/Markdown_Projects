@@ -1,4 +1,4 @@
 - first bullet
 - second bullet
--thid bullet
+-third bullet
   - idented
