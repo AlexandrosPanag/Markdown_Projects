@@ -122,6 +122,13 @@ This is a better `.Formatting`
 this is a markdown box
 ```
 
+---
+Bullets
+---
+- first bullet
+- second bullet
+-thid bullet
+  - idented
 
 ---
 Icons In Markdown
