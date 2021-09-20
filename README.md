@@ -163,3 +163,10 @@ Move To Website With Icon
 
 
 [linkedin]: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος-838a79218/
+
+
+---
+Line Break
+---
+
+With the character "<BR/>" we do a line break
