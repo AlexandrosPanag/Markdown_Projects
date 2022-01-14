@@ -1,5 +1,8 @@
 # Markdown_Projects
 
+A useful cheatsheet for markdown by Adam Pritchard  can be found here : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
 Markdown is a plain text formatting syntax aimed at making writing for the internet easier. The philosophy behind Markdown is that plain text documents should be readable without tags mussing everything up, but there should still be ways to add text modifiers like lists, bold, italics, etc. It is an alternative to WYSIWYG (what you see is what you get) editors, which use rich text that later gets converted to proper HTML.
 
 It’s possible you’ve encountered Markdown without realizing it. Facebook chat, Skype, and Reddit all let you use different flavors of Markdown to format your messages.
