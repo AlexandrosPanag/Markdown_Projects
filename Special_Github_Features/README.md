@@ -15,3 +15,8 @@ GITHUB_Total_Profile_Views
 GitHub_Activity_Graph
 ---------
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AlexandrosPanag&&theme=xcode)](https://github.com/AlexandrosPanag)
+
+
+GitHub_Activity_Streak
+--------
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexandrosPanag&theme=dark)](https://git.io/streak-stats)
