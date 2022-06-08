@@ -10,3 +10,8 @@ GITHUB_Total_Profile_Views
 --------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
+
+
+GitHub_Activity_Graph
+---------
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AlexandrosPanag&&theme=xcode)](https://github.com/AlexandrosPanag)
