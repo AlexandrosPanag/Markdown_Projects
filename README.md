@@ -165,7 +165,7 @@ Move To Website With Icon
 
 
 
-[linkedin]: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος-838a79218/
+[linkedin]: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
 
 
 ---
