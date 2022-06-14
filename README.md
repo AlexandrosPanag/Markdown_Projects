@@ -173,3 +173,10 @@ Line Break
 ---
 
 With the character "<BR/>" we do a line break
+
+-----
+Inline HTML
+----
+
+
+A basic illustration of how we can use HTML in our markdown program
