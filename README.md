@@ -12,10 +12,6 @@ Here’s a quick example: to make words bold using Markdown, you simply enclose 
 All told, Markdown is a great way to write for the web using plain text.
 
 
-![](https://th.bing.com/th/id/R31767c0d8d6d30d45b0a9b96d5e3a880?rik=TyBIUaoIDAB0Qw&riu=http%3a%2f%2finplus.top%2fassets%2fblogImg%2fmarkdown%2fmarkdown-0.png&ehk=7T1iLuILhJc4Yn%2fSSe493ScIMG%2bPltiO1E9aAhijFo8%3d&risl=&pid=ImgRaw).
-
-
-
 SOURCE : https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html
 
 
