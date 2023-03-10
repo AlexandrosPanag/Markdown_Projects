@@ -176,3 +176,14 @@ Inline HTML
 
 
 A basic illustration of how we can use HTML in our markdown program
+
+
+----
+Compiler IDE With Download Link SAMPLE
+----
+
+| Compiler/IDE | Download Link |
+| --------------- | ---------------- |
+| Compiler IDE SAMPLE 1 | [Download Link](https://examplecompiler.com) |
+| Compiler IDE SAMPLE 2 | [Download Link](https://examplecompiler.com) |
+| Compiler IDE SAMPLE 3 | [Download Link](https://examplecompiler.com) |
