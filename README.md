@@ -1,7 +1,10 @@
 # Markdown_Projects
 
-
 <img src="https://img.shields.io/bower/l/mi">
+
+
+Credits: [@alexandrospanag](https://github.com/alexandrospanag)
+
 
 
 A useful cheatsheet for markdown by Adam Pritchard  can be found here : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
